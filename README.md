@@ -2,7 +2,7 @@
 ## my oh my posh configuration
 ---
 
-'''json
+```json
 {
   "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
   "final_space": true,
@@ -86,4 +86,4 @@
     }
   ]
 }
-'''
+```
